@@ -4,7 +4,9 @@
 
 .radiobutton-text {
 	font-size: 120px;
-	font-family: "AvenirNextLTPro-Demi.otf", arial, helvetica, sans-serif;
+	font-family: AvenirNextLTPro-Demi
+.otf, arial, helvetica, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 .question-text {
